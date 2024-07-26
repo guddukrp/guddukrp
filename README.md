@@ -11,7 +11,7 @@
 - 🏦 I'm Java Fullstack Devleoper Trainee at Tap Academy in India 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily: **.js**, **.java**, **.jsp**,  **.sql**
-- 📖 I am currently learning **Full stack java**.
+- 📖 I have got  **Java Full Stack Web Devlopment** certificate from thetapacademy.com.
 - 💬 Talk to me about Java Project or core Java Concepts.
 - 👯 We can connect to play some games of Chess ♟
 - 🧑‍💻 Tech I work on : Java, C++, HTML, CSS, JSP, Servlets, JDBC, MySql, Hibernate and Spring
@@ -28,10 +28,6 @@
 </p>
 
 ---
----
-⏳ **Year Progress** { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 7.39 % as on ⏰ 27-Jan-2024
-
-
 ---
 
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
