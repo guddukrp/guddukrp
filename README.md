@@ -46,15 +46,15 @@ Let's connect and explore the exciting world of Java together!
 <img height="60" width="60" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> <img height="60" width="60" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="60" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="60" width="60" src="https://img.icons8.com/color/50/000000/git.png"/> <img width="60" height="60" src="https://img.icons8.com/fluency/48/000000/github.png" alt="github"/> <img width="60" height="60" src="https://img.icons8.com/dusk/64/000000/postman-api.png" alt="postman-api"/>  <img height="60" width="60" src="https://img.icons8.com/color/48/000000/mysql-logo.png" /> <img height="60" width="60" src="https://img.icons8.com/color/48/maven.png" /> <img width="60" height="60" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 
 ### Github Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=guddukrp&theme=matrix&rank=S,SS,SSS,A,AA,AAA,B,C&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=guddukrp&theme=matrix&rank=S,SS,SSS,A,AA,AAA,B,C&margin-w=15&no-bg=true)](https://github.com/guddukrp/github-profile-trophy)
 
 ### Github Stats
 ![Guddu's GitHub stats](https://github-readme-stats.vercel.app/api?username=guddukrp&show=prs_merged,prs_merged_percentage&hide=issues,contribs&show_icons=true&theme=radical)            
 
 ### Language Used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guddukrp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guddukrp&layout=compact)](https://github.com/guddukrp/github-readme-stats)
 
 
  
  ### Guddu's github activity graph
-[![Guddu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guddukrp&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Guddu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guddukrp&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/guddukrp/github-readme-activity-graph)
