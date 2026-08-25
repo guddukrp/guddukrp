@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "PLACEHOLDER NUMBERS - these are inferred from the languages in your public repos, not from you. Edit them. Values are 0-100 and purely self-rated; 5-8 axes reads best.",
+  "axes": [
+    { "label": "Java",       "value": 88 },
+    { "label": "Spring Boot","value": 82 },
+    { "label": "React / TS", "value": 84 },
+    { "label": "REST APIs",  "value": 82 },
+    { "label": "Databases",  "value": 78 },
+    { "label": "Offline Sync","value": 76 },
+    { "label": "DSA",        "value": 86 }
+  ]
+}

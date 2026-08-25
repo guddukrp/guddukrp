@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; the description here overrides the repo's GitHub description when set.",
+  "projects": [
+    {
+      "repo": "DSA_JAVA",
+      "description": "A structured Java data-structures-and-algorithms practice repo covering arrays, linked lists, stacks, queues, recursion, dynamic programming, sorting, and core problem-solving patterns."
+    },
+    {
+      "repo": "syncspace-frontend",
+      "description": "Frontend for SyncSpace, a collaborative web experience focused on clean UI, fast interactions, and practical product flow."
+    },
+    {
+      "repo": "portfolio",
+      "description": "Personal portfolio site for showcasing projects, skills, and developer identity."
+    },
+    {
+      "repo": "Calculator",
+      "description": "A simple browser calculator project built to practice core HTML, CSS, and JavaScript fundamentals."
+    }
+  ]
+}
