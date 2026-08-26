@@ -22,7 +22,7 @@
 <a href="https://leetcode.com/u/guddukrp/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 <a href="https://www.geeksforgeeks.org/profile/guddukrp?from=explore&amp;tab=activity"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
 
-<img src="https://komarev.com/ghpvc/?username=guddukrp&style=flat&color=39d353&label=profile+views" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=guddukrp&base=600&style=flat&color=39d353&label=profile+views" alt="profile views">
 
 </div>
 
@@ -34,13 +34,13 @@
 $ cat about.txt
 ```
 
-Hi, I'm **Guddu Kumar Prasad** (`guddukrp`), a software developer with 2+ years of
+Hi, I'm **Guddu Kumar Prasad** , a software developer with 2+ years of
 experience building production web and mobile applications with Java, Spring Boot,
 React, TypeScript, Supabase, SQLite, and Firebase.
 
 - Currently working on **offline-first educational platforms at Chimple Learning**
 - Building across **React/TypeScript frontends, Supabase/SQLite data layers, and Java/Spring Boot APIs**
-- Previously built CRM modules with **JSP, Servlets, JDBC, and MySQL** at Sunbase
+- Previously built CRM modules with **JSP, Servlets, JDBC, Spring Boot and MySQL** 
 - Sharpening **system design and advanced DSA** through **[DSA_JAVA](https://github.com/guddukrp/DSA_JAVA)**
 - Portfolio: **[guddukrp.github.io/portfolio](https://guddukrp.github.io/portfolio/)**
 - Solved **500+ DSA problems** across **[LeetCode](https://leetcode.com/u/guddukrp/)** and **[GeeksforGeeks](https://www.geeksforgeeks.org/profile/guddukrp?from=explore&amp;tab=activity)**
@@ -51,7 +51,7 @@ React, TypeScript, Supabase, SQLite, and Firebase.
 
 ## `~/` toolbox
 
-<img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nextjs,nodejs,express,tailwind,mongodb,mysql,postgres,supabase,firebase,git,github,vscode,html,css,jest&perline=10" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nextjs,nodejs,python,fastapi,tailwind,mysql,postgres,supabase,firebase,git,github,vscode,html,css,jest&perline=10" alt="tech stack">
 
 </div>
 
@@ -131,15 +131,6 @@ React, TypeScript, Supabase, SQLite, and Firebase.
 <table>
 <tr>
 <td width="50%">
-  <a href="https://github.com/guddukrp/DSA_JAVA">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-DSA_JAVA-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-DSA_JAVA-light.svg">
-      <img src="assets/card-DSA_JAVA-dark.svg" width="420" alt="DSA_JAVA">
-    </picture>
-  </a>
-</td>
-<td width="50%">
   <a href="https://github.com/guddukrp/syncspace-frontend">
     <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="assets/card-syncspace-frontend-dark.svg">
@@ -148,23 +139,32 @@ React, TypeScript, Supabase, SQLite, and Firebase.
     </picture>
   </a>
 </td>
+<td width="50%">
+  <a href="https://github.com/guddukrp/syncspace-backend">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-syncspace-backend-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-syncspace-backend-light.svg">
+      <img src="assets/card-syncspace-backend-dark.svg" width="420" alt="syncspace-backend">
+    </picture>
+  </a>
+</td>
 </tr>
 <tr>
 <td width="50%">
-  <a href="https://github.com/guddukrp/portfolio">
+  <a href="https://github.com/guddukrp/video-streaming-app">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-portfolio-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-portfolio-light.svg">
-      <img src="assets/card-portfolio-dark.svg" width="420" alt="portfolio">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-video-streaming-app-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-video-streaming-app-light.svg">
+      <img src="assets/card-video-streaming-app-dark.svg" width="420" alt="video-streaming-app">
     </picture>
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/guddukrp/Calculator">
+  <a href="https://github.com/guddukrp/DSA_JAVA">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Calculator-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-Calculator-light.svg">
-      <img src="assets/card-Calculator-dark.svg" width="420" alt="Calculator">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-DSA_JAVA-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-DSA_JAVA-light.svg">
+      <img src="assets/card-DSA_JAVA-dark.svg" width="420" alt="DSA_JAVA">
     </picture>
   </a>
 </td>
@@ -175,10 +175,10 @@ React, TypeScript, Supabase, SQLite, and Firebase.
 
 | project | live | stack |
 |---|---|---|
-| **[DSA_JAVA](https://github.com/guddukrp/DSA_JAVA)** | - | `Java` `DSA` |
 | **[syncspace-frontend](https://github.com/guddukrp/syncspace-frontend)** | [syncspace-gkp.vercel.app](https://syncspace-gkp.vercel.app) | `React` `TypeScript` |
-| **[portfolio](https://github.com/guddukrp/portfolio)** | [guddukrp.github.io/portfolio](https://guddukrp.github.io/portfolio/) | `HTML` `CSS` `JavaScript` |
-| **[Calculator](https://github.com/guddukrp/Calculator)** | - | `HTML` `CSS` `JavaScript` |
+| **[syncspace-backend](https://github.com/guddukrp/syncspace-backend)** | - | `Spring Boot` `PostgreSQL` |
+| **[video-streaming-app](https://github.com/guddukrp/video-streaming-app)** | - | `React` `Spring Boot` |
+| **[DSA_JAVA](https://github.com/guddukrp/DSA_JAVA)** | - | `Java` `DSA` |
 
 </sub>
 

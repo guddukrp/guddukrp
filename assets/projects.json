@@ -2,20 +2,20 @@
   "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; the description here overrides the repo's GitHub description when set.",
   "projects": [
     {
+      "repo": "syncspace-frontend",
+      "description": "Frontend for SyncSpace, a collaborative workspace with clean UI, fast interactions, and practical product flow."
+    },
+    {
+      "repo": "syncspace-backend",
+      "description": "Backend service for SyncSpace, built around Spring Boot APIs, persistence, and workspace collaboration flows."
+    },
+    {
+      "repo": "video-streaming-app",
+      "description": "A full-stack video streaming application with a React frontend and Spring Boot backend."
+    },
+    {
       "repo": "DSA_JAVA",
       "description": "A structured Java data-structures-and-algorithms practice repo covering arrays, linked lists, stacks, queues, recursion, dynamic programming, sorting, and core problem-solving patterns."
-    },
-    {
-      "repo": "syncspace-frontend",
-      "description": "Frontend for SyncSpace, a collaborative web experience focused on clean UI, fast interactions, and practical product flow."
-    },
-    {
-      "repo": "portfolio",
-      "description": "Personal portfolio site for showcasing projects, skills, and developer identity."
-    },
-    {
-      "repo": "Calculator",
-      "description": "A simple browser calculator project built to practice core HTML, CSS, and JavaScript fundamentals."
     }
   ]
 }
